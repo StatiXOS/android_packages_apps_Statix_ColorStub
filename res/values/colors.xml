@@ -6,11 +6,13 @@
     <color name="color_primary_bundle2">#746bc1</color>
     <color name="color_primary_bundle3">#fc7756</color>
     <color name="color_primary_default">#ffffff</color>
+    <color name="color_primary_monochromatic">#666666</color>
 
     <!-- Color Secondary is used for System Colors -->
     <color name="color_secondary_bundle1">#0a8758</color>
     <color name="color_secondary_bundle2">#746bc1</color>
     <color name="color_secondary_bundle3">#ea775a</color>
     <color name="color_secondary_default">#1a73e8</color>
+    <color name="color_secondary_monochromatic">#333333</color>
 
 </resources>
